@@ -296,7 +296,7 @@
 /* Background Color Green */
 
 .bg-blue {
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 
@@ -310,7 +310,7 @@
 /* Background Color Dark Blue */
 
 .bg-yellow {
-    background-color: #F0A023;
+    background-color: #efa500;
 }
 
 
@@ -364,7 +364,7 @@
 /* text Color Green */
 
 .text-blue {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 
@@ -378,7 +378,7 @@
 /* text Color Dark Blue */
 
 .text-yellow {
-    color: #F0A023;
+    color: #efa500;
 }
 
 
@@ -465,8 +465,8 @@ Blue Button
 
 .btn-blue {
     color: #fff;
-    background-color: #48b7b0;
-    border-color: #48b7b0;
+    background-color: #aec438;
+    border-color: #aec438;
 }
 
 .btn-blue:hover,
@@ -515,8 +515,8 @@ Yellow Button
 
 .btn-yellow {
     color: #fff;
-    background-color: #F0A023;
-    border-color: #F0A023;
+    background-color: #efa500;
+    border-color: #efa500;
 }
 
 .btn-yellow:hover,

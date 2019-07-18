@@ -76,19 +76,19 @@ p:last-child {
 ::selection {
     color: #fff;
     text-shadow: none;
-    background: #48b7b0;
+    background: #aec438;
 }
 
 ::-moz-selection {
     color: #fff;
     text-shadow: none;
-    background: #48b7b0;
+    background: #aec438;
 }
 
 ::-webkit-selection {
     color: #fff;
     text-shadow: none;
-    background: #48b7b0;
+    background: #aec438;
 }
 
 .section {
@@ -107,7 +107,8 @@ p:last-child {
 }
 
 .pattern-2 {
-    background: url(http://via.placeholder.com/600x400) repeat left top scroll #fff;
+    /* background: url(http://via.placeholder.com/600x400) repeat left top scroll #fff; */
+    background: url('../images/rostros.png') repeat left top scroll #fff;
     background-attachment: fixed;
 }
 
@@ -168,9 +169,9 @@ p:last-child {
 }
 
 .pre-loader {
-    background: #00c6ff;
-    background: -webkit-linear-gradient(to left, #00c6ff, #48b7b0);
-    background: linear-gradient(to left, #00c6ff, #48b7b0);
+    background: #1e7d3e;
+    background: -webkit-linear-gradient(to left, #1e7d3e, #aec438);
+    background: linear-gradient(to left, #1e7d3e, #aec438);
     position: fixed;
     left: 0;
     right: 0;
@@ -420,7 +421,7 @@ p:last-child {
 ============================================= */
 
 .header {
-    background-color: #4e576b;
+    background-color: #939598;
     position: fixed;
     z-index: 555;
     left: 0;
@@ -434,7 +435,7 @@ p:last-child {
 }
 
 .header.header-sticky {
-    background-color: #4e576b;
+    background-color: #939598;
     -moz-box-shadow: -3px 13px 24px -1px rgba(0, 0, 0, 0.09);
     -webkit-box-shadow: -3px 13px 24px -1px rgba(0, 0, 0, 0.09);
     box-shadow: -3px 13px 24px -1px rgba(0, 0, 0, 0.09);
@@ -453,6 +454,7 @@ p:last-child {
     height: 100%;
     margin-right: auto;
     text-align: center;
+    background-color: #636466;
 }
 
 .header-logo .navbar-brand {
@@ -484,7 +486,7 @@ p:last-child {
 .navbar-custom .navbar-nav .nav-link.active,
 .navbar-custom .navbar-nav .nav-link:hover,
 .navbar-custom .navbar-nav .nav-link:focus {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .header-social {
@@ -597,7 +599,7 @@ p:last-child {
 }
 
 .header-social-inner li a:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .header-follow-close {
@@ -612,7 +614,7 @@ p:last-child {
 }
 
 .header-follow-close:hover {
-    background-color: #48b7b0;
+    background-color: #aec438;
     color: #fff;
 }
 
@@ -721,7 +723,7 @@ p:last-child {
 }
 
 .social-black>li>a:hover {
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 
@@ -780,7 +782,7 @@ p:last-child {
 
 .home-slider .owl-theme .owl-nav:after {
     right: 0;
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 .home-slider .owl-carousel .owl-nav button.owl-next,
@@ -799,7 +801,7 @@ p:last-child {
 }
 
 .home-slider .owl-carousel .owl-nav button.owl-next {
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 .home-slider .owl-carousel .owl-nav button.owl-prev {
@@ -843,7 +845,7 @@ p:last-child {
 }
 
 .service-box .service-box-inner {
-    padding: 100px 20px;
+    padding: 50px 20px;
     position: relative;
     overflow: hidden;
     color: #fff;
@@ -978,7 +980,7 @@ p:last-child {
     left: 50%;
     margin-top: -55px;
     margin-left: -55px;
-    color: #48b7b0;
+    color: #aec438;
 }
 
 
@@ -1095,7 +1097,7 @@ p:last-child {
 
 .portfolio-filter li.active,
 .portfolio-filter li.active:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .portfolio-item {
@@ -1139,7 +1141,7 @@ p:last-child {
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #48b7b0;
+    background-color: #aec438;
     color: #fff;
     line-height: 40px;
     padding: 5px;
@@ -1199,7 +1201,7 @@ p:last-child {
 
 .card.active a,
 .card a:hover {
-    background-color: #48b7b0;
+    background-color: #aec438;
     color: #fff;
 }
 
@@ -1241,7 +1243,7 @@ p:last-child {
 
 .quote-icon:before {
     content: "";
-    background-color: #48b7b0;
+    background-color: #aec438;
     display: block;
     -webkit-clip-path: polygon(100% 0, 0 0, 100% 100%);
     clip-path: polygon(100% 0, 0 0, 100% 100%);
@@ -1346,7 +1348,7 @@ p:last-child {
 }
 
 .team .team-social a:hover {
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 .team .team-meta {
@@ -1521,7 +1523,7 @@ p:last-child {
 
 .blog .blog-content h5 a:hover,
 .blog .blog-social-share>li>a:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .blog .blog-content .blog-read-more:hover span {
@@ -1558,7 +1560,7 @@ p:last-child {
 }
 
 .blog-widget>li>a:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .widget-search .btn {
@@ -1572,12 +1574,12 @@ p:last-child {
 }
 
 .page-item.active .page-link {
-    background-color: #48b7b0;
-    border-color: #48b7b0;
+    background-color: #aec438;
+    border-color: #aec438;
 }
 
 .page-link:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .blog-meta {
@@ -1595,11 +1597,11 @@ p:last-child {
 }
 
 .blog-meta>li>a:hover {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .post-content blockquote {
-    border-left: 3px solid #48b7b0;
+    border-left: 3px solid #aec438;
 }
 
 .blog-user {
@@ -1615,7 +1617,7 @@ p:last-child {
 }
 
 .breadcrumb-item.active {
-    color: #48b7b0;
+    color: #aec438;
 }
 
 .breadcrumb-item+.breadcrumb-item::before {
@@ -1800,7 +1802,7 @@ textarea.form-control {
 }
 
 .footer-social>li>a:hover {
-    background-color: #48b7b0;
+    background-color: #aec438;
 }
 
 
